@@ -1,0 +1,17 @@
+{
+  "name": "Promotion du Maroc",
+  "short_name": "Promotion Maroc",
+  "description": "دليل الشركات والعروض الرسمية في المغرب",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f4f7f4",
+  "theme_color": "#003d2d",
+  "icons": [
+    {
+      "src": "logo.png",
+      "sizes": "any",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
